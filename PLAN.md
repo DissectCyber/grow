@@ -16,7 +16,7 @@
 > - Will this turn into a project for us? 
 
 ## 11/8/2023
-![Broccoli Day One!](My files/Downloads/IMG_0939.jpg)
+![Broccoli Day One](My files/Downloads/IMG_0939.jpg)
 #### List of TO-DO's
 > - [x] Research how microgreens grow and under what conditions are best to grow them in 
 > > * ~~Light- More shade? More Light? Do we need to order specific lights?~~
