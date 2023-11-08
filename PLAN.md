@@ -22,7 +22,7 @@
 > > * ~~Water - When to water, and how much~~
 > > * ~~Location - Not too close to the ventilation but not far away from the light source(?)~~
 > > *  After doing some research I thought maybe put a cover over it?
-> > * > - [x] Research technologies that could be useful in the data collecting aspect
+> > * > - [ ] Research technologies that could be useful in the data collecting aspect
 > > * Video Feed?
-> > > * Do we want a website for this?
+> > > * <u> Do we want a website for this? </u>
 > > * Sensor to check height?
