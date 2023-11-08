@@ -37,5 +37,6 @@
 > > * Electrical Conductivity (EC) of soil - I don't belive raspberry pi has anything that can do this but would be glad to be proven wrong!
 > > * CO2 Sensor - [SCD41 CO2 Sensor](https://thepihut.com/products/scd41-co2-sensor-breakout-carbon-dioxide-temperature-humidity)
 #### For Next Week
-* Look into
+* Take a picture of the greens
+* Look into the process we will use
 ---
