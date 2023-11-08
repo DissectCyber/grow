@@ -24,5 +24,5 @@
 > > *  After doing some research I thought maybe put a cover over it?
 > > * > - [ ] Research technologies that could be useful in the data collecting aspect
 > > * Video Feed?
-> > > * <u> Do we want a website for this? </u>
-> > * Sensor to check height?
+> > > * <ins>Do we want a website for this?</ins>
+> > * Sensors?
