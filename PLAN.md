@@ -14,7 +14,7 @@
 > > * Technologies - Video Feed? Light sensor? 
 #### What do we want this to look like?
 > - Will this turn into a project for us? 
-
+---
 ## 11/8/2023
 ![Broccoli Day One!](https://github.com/DissectCyber/grow/assets/149001389/4809fe35-5a85-404f-a459-af456e7d547c)
 #### List of TO-DO's
