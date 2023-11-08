@@ -30,6 +30,6 @@
 > > * Sensors?
 > > > * Light - Found that a southern facing window would be best... The ones we have face north but I believe that should be eficient.
 > > > > * Possibly set up 2 different grow trays. One here where it is facing and one under a grow light? Will ask April for opinion later today.
-> > > * Temperature - 
-> > > * Humidity - 
+> > > * Temperature - 60-75 degrees is best
+> > > * Humidity - 60-70% humidity is best
 > > > * Hypothesis - Can we check for soil dampness/dryness? Should we?
