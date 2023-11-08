@@ -24,7 +24,7 @@
 > > * ~~Water - When to water, and how much~~
 > > * ~~Location - Not too close to the ventilation but not far away from the light source(?)~~
 > > *  After doing some research I thought maybe put a cover over it?
-> > * > - [ ] Research technologies that could be useful in the data collecting aspect
+> - [ ] Research technologies that could be useful in the data collecting aspect
 > > * Video Feed?
 > > > * <ins>Do we want a website for this?</ins>
 > > > * Camera: Found These on Amazon for [streaming](https://www.amazon.com/dp/B075N1BYWB/ref=asc_df_B075N1BYWB1699376400000?tag=georiot-us-default-20&ascsubtag=cbq-us-2319533643665169400-20&geniuslink=true&th=1) and looked for a time-lapse camera but couldn't find anything worth it.
