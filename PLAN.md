@@ -27,10 +27,13 @@
 > - [ ] Research technologies that could be useful in the data collecting aspect
 > > * Video Feed?
 > > > * <ins>Do we want a website for this?</ins>
-> > > * Camera: Found These on Amazon for [streaming](https://www.amazon.com/dp/B075N1BYWB/ref=asc_df_B075N1BYWB1699376400000?tag=georiot-us-default-20&ascsubtag=cbq-us-2319533643665169400-20&geniuslink=true&th=1) and looked for a time-lapse camera but couldn't find anything worth it.
-> > * Sensors? Found [This](https://www.amazon.com/Moisture-Temperature-Intensity-Environment-Gardening/dp/B09N36NBG2/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.d933e485-817c-414b-a558-8d2dd91be62a%3Aamzn1.sym.d933e485-817c-414b-a558-8d2dd91be62a&crid=35E9UF99U0IKF&cv_ct_cx=plant+temperature+and+humidity+monitor&keywords=plant+temperature+and+humidity+monitor&pd_rd_i=B09N36NBG2&pd_rd_r=93ea5426-743b-4434-9cab-05c8b43d8ebb&pd_rd_w=PHSzs&pd_rd_wg=AO5aM&pf_rd_p=d933e485-817c-414b-a558-8d2dd91be62a&pf_rd_r=68BJAWYB0GYZ3307NA94&qid=1699459467&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=temperature+monitor+for+pl%2Caps%2C93&sr=1-1-04ee2115-cc39-4a76-b27b-39c36fb3a917-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1) on amazon and thought it might be useful.
-> > > * Light - Found that a southern facing window would be best... The ones we have face north but I believe that should be eficient.
-> > > > * Possibly set up 2 different grow trays. One here where it is facing and one under a grow light? Will ask April for opinion later today.
-> > > * Temperature - 60-75 degrees is best
-> > > * Humidity - 60-70% humidity is best
+> > > * Camera: [Official Raspberry Pi Camera Module](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_1_sspa?keywords=raspberry%2Bpi%2Bcamera&qid=1699463919&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+> > * Sensors
+> > > * Light - Found that a southern facing window would be best... The ones we have face north but I believe that should be efficient. Some [Photoresisters](https://www.amazon.com/s?k=LDR&tag=754u-20&ref=nb_sb_noss_2) that I thought would work for what we need.
+> > > * Temperature - 60-75 degrees is best [DS18B20](https://www.amazon.com/Diymore-DS18B20-Digital-Thermometer-Temperature/dp/B01IVN3X6K/ref=sr_1_1_sspa?keywords=DS18B20&qid=1699467406&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+> > > * Humidity - 60-70% humidity is best [DHT22](https://www.amazon.com/HiLetgo-Temperature-Humidity-Electronic-Practice/dp/B0795F19W6/ref=sr_1_3?keywords=DHT22&qid=1699467396&sr=8-3&th=1)
+> > > * Soil Moisture levels - [Capacitive Soil Moisture Sensor](https://thepihut.com/products/capacitive-soil-moisture-sensor)
+> > > * pH sensor - I believe the Capacitive Soil Moisture Sensor is able to sense for pH but I'm not sure. I coudn't find others that would work for what we needed.
+> > > * Electrical Conductivity (EC) of soil - I don't belive raspberry pi has anything that can do this but would be glad to be proven wrong!
+> > > * CO2 Sensor - [SCD41 CO2 Sensor](https://thepihut.com/products/scd41-co2-sensor-breakout-carbon-dioxide-temperature-humidity)
 ---
