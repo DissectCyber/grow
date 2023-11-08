@@ -16,7 +16,7 @@
 > - Will this turn into a project for us? 
 
 ## 11/8/2023
-
+![Todays Broccol](https://mail.google.com/mail/u/1?ui=2&ik=bf1a5fda51&attid=0.1&permmsgid=msg-f:1782011048341196809&th=18baf99b6232d009&view=att&disp=safe)
 #### List of TO-DO's
 > - [x] Research how microgreens grow and under what conditions are best to grow them in 
 > > * ~~Light- More shade? More Light? Do we need to order specific lights?~~
