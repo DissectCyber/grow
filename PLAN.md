@@ -24,7 +24,7 @@
 > * ~~Water - When to water, and how much~~
 > * ~~Location - Not too close to the ventilation but not far away from the light source(?)~~
 > *  After doing some research I thought maybe put a cover over it?
-- [ ] Research technologies that could be useful in the data collecting aspect
+- [x] Research technologies that could be useful in the data collecting aspect
 > * Video Feed?
 > > * <ins>Do we want a website for this?</ins>
 > > * Camera: [Official Raspberry Pi Camera Module](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_1_sspa?keywords=raspberry%2Bpi%2Bcamera&qid=1699463919&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
@@ -42,5 +42,6 @@
 ---
 ## 11/15/2023
 ![Broccoli One Week Later!](https://github.com/DissectCyber/grow/assets/149001389/1794bd0e-c500-48f9-bc73-c5bf5b1a4f45)
-
+#### List of TO-DO's
+- [ ] Research other eco sensors for the broccolli
 ---
