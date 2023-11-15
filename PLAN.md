@@ -46,6 +46,9 @@
 - [x] Attach Camera Module 3 to Raspberry Pi
 > ![Pi with Camera module](https://github.com/DissectCyber/grow/assets/149001389/0c7e1787-624d-4904-a1bb-67d2ecda9250)
 #### Research how the Pi 3 works
+![IMG_0950](https://github.com/DissectCyber/grow/assets/149001389/bef26b15-9e63-4d9b-b1b4-459ac9363402)
 > <ins>What did I learn?</ins>
-> * Nothing yet
+> * How to connect somethings into the pi module
+> > * Power adapter, Micro USB, Keyboard, Camera, Display. ETC.
+> * Began to connect some and learned a little about the operating system
 ---
