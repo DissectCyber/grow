@@ -41,5 +41,6 @@
 * Look into the process we will use
 ---
 ## 11/15/2023
-![Broccoli One Week Later!]()
+![Broccoli One Week Later!](https://github.com/DissectCyber/grow/assets/149001389/1794bd0e-c500-48f9-bc73-c5bf5b1a4f45)
+
 ---
