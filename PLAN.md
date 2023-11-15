@@ -47,5 +47,5 @@
 > ![Pi with Camera module](https://github.com/DissectCyber/grow/assets/149001389/0c7e1787-624d-4904-a1bb-67d2ecda9250)
 #### Research how the Pi 3 works
 > What did I learn?
-> *
+> * Nothing yet
 ---
