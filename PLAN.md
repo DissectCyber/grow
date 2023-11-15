@@ -40,3 +40,6 @@
 * Take a picture of the greens
 * Look into the process we will use
 ---
+## 11/15/2023
+![Broccoli One Week Later!]()
+---
