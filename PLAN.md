@@ -43,5 +43,5 @@
 ## 11/15/2023
 ![Broccoli One Week Later!](https://github.com/DissectCyber/grow/assets/149001389/1794bd0e-c500-48f9-bc73-c5bf5b1a4f45)
 #### List of TO-DO's
-- [ ] Research other eco sensors for the broccolli
+- [ ] Attach Camera Module 3 to Raspberry Pi
 ---
