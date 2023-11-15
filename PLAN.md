@@ -41,6 +41,5 @@
 * Look into the process we will use
 ---
 ## 11/15/2023
-![Broccoli One Week Later!](blob:chrome-untrusted://media-app/380772da-dce3-494c-a238-852358922bb7)
-
+![Broccoli One Week Later!]()
 ---
