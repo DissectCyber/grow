@@ -56,3 +56,7 @@
 ![image](https://github.com/DissectCyber/grow/assets/149178495/04d48ff1-4fd5-4387-8322-c1cb1382e3b3)
 ![image](https://github.com/DissectCyber/grow/assets/149178495/e62a099f-f5fc-4fe9-af59-f9a9752892bf)
 #### Before and after removing paper
+---
+#### List of TO-DO's
+- [x] Take Pictures of the Plant
+- [ ] Start Making a Website for the Data we Collect on the Plant
