@@ -52,3 +52,4 @@
 > > * Power adapter, Micro USB, Keyboard, Camera, Display. ETC.
 > * Began to connect some and learned a little about the operating system
 ---
+## 11/17/2023
