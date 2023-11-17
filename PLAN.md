@@ -54,6 +54,5 @@
 ---
 ## 11/17/2023
 ![image](https://github.com/DissectCyber/grow/assets/149178495/04d48ff1-4fd5-4387-8322-c1cb1382e3b3)
-#### Berfore removing paper
 ![image](https://github.com/DissectCyber/grow/assets/149178495/e62a099f-f5fc-4fe9-af59-f9a9752892bf)
-#### After removing paper
+#### Before and after removing paper
