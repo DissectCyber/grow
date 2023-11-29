@@ -62,6 +62,6 @@
 - [ ] Start Making a Website for the Data we Collect on the Plant
 ---
 ## 11/29/2023
-![Very Tall Broccolli](https://github.com/DissectCyber/grow/assets/149001389/3964e47c-e67a-428b-8f36-71d7d48fb9df)
+![Grown Up](https://github.com/DissectCyber/grow/assets/149001389/f2738c22-19eb-4f80-ab94-802b15dfc29f)
 ### List of TO-DO's
 - [ ] Continue adding things onto the pi 3
