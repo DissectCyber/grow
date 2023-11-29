@@ -60,3 +60,8 @@
 #### List of TO-DO's
 - [x] Take Pictures of the Plant
 - [ ] Start Making a Website for the Data we Collect on the Plant
+---
+## 11/29/2023
+![Very Tall Broccolli](https://github.com/DissectCyber/grow/assets/149001389/3964e47c-e67a-428b-8f36-71d7d48fb9df)
+### List of TO-DO's
+- [ ] Continue adding things onto the pi 3
