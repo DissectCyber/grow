@@ -71,9 +71,11 @@
 ## 12/1/2023
 ![IMG_1022](https://github.com/DissectCyber/grow/assets/149001389/56eff759-0d04-4cbd-a3c5-fca9148111d0)
 ### List of TO-DO's
-- [ ] Learn about Linux as an oporating system and install it onto the computer
-- [ ] Install Linux and update/upgrade it
-- [ ] Using Linux, I used the 'vimtutor' command to learn more about the opporating system Vim
+- [x] Learn about Linux as an oporating system and install it onto the computer
+> * Be sure to follow up on the Linux introduction that Ziggy sent you next week
+- [x] Install Linux and update/upgrade it
+- [x] Using Linux, I used the 'vimtutor' command to learn more about the opporating system Vim
+> * You last left off at lesson 5.3 keep going as this is very fun!
 ### For Tyler -
 > > * check [This](https://tldp.org/LDP/abs/html/) link out for more information on Linux
 > > * Then ask ChatGPT how to access and use Linux on a Chrome computer, I think we should install it and use it for our system
