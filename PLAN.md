@@ -68,6 +68,7 @@
 ---
 ## 12/1/2023
 ![image](https://github.com/DissectCyber/grow/assets/149178495/88445a68-1fca-4044-b432-3aea33ac6807)
+## 12/1/2023
+![IMG_1022](https://github.com/DissectCyber/grow/assets/149001389/56eff759-0d04-4cbd-a3c5-fca9148111d0)
 ### List of TO-DO's
-- [x] 
-
+- [ ] Learn about Linux as an oporating system
