@@ -71,5 +71,9 @@
 ## 12/1/2023
 ![IMG_1022](https://github.com/DissectCyber/grow/assets/149001389/56eff759-0d04-4cbd-a3c5-fca9148111d0)
 ### List of TO-DO's
-- [ ] Learn about Linux as an oporating system
-> * Tyler - check [This](https://tldp.org/LDP/abs/html/) link out
+- [ ] Learn about Linux as an oporating system and install it onto the computer
+- [ ] Install Linux and update/upgrade it
+### For Tyler -
+> > * check [This](https://tldp.org/LDP/abs/html/) link out for more information on Linux
+> > * Then ask ChatGPT how to access and use Linux on a Chrome computer, I think we should install it and use it for our system
+> > * Do some reasearch on VIM as well, I think we should use this as our code editor
