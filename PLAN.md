@@ -73,6 +73,7 @@
 ### List of TO-DO's
 - [ ] Learn about Linux as an oporating system and install it onto the computer
 - [ ] Install Linux and update/upgrade it
+- [ ] Using Linux, I used the 'vimtutor' command to learn more about the opporating system Vim
 ### For Tyler -
 > > * check [This](https://tldp.org/LDP/abs/html/) link out for more information on Linux
 > > * Then ask ChatGPT how to access and use Linux on a Chrome computer, I think we should install it and use it for our system
