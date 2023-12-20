@@ -93,6 +93,6 @@
 - [ ] Maybe: start to make a website (no idea how)
 ### Pictures of items
 ![IMG_1043](https://github.com/DissectCyber/grow/assets/149001389/99a6954a-5f5a-4416-8479-be32ee5ddb94)
-* Some of the Pi modules I will try to use
+#### Some of the Pi modules I will try to use
 ![IMG_1044](https://github.com/DissectCyber/grow/assets/149001389/05670624-3514-4777-a71a-25c17aff3293)
-* This mat negates static shock and is safer for the electronics
+#### This mat negates static shock and is safer for the electronics
