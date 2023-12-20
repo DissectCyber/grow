@@ -80,3 +80,10 @@
 > > * check [This](https://tldp.org/LDP/abs/html/) link out for more information on Linux
 > > * Then ask ChatGPT how to access and use Linux on a Chrome computer, I think we should install it and use it for our system
 > > * Do some reasearch on VIM as well, I think we should use this as our code editor
+## 12/20/2023
+![IMG_1041](https://github.com/DissectCyber/grow/assets/149001389/2cf31964-a8bd-42fb-83c5-0aba0c777fb4)
+### List of TO-DO's
+- [ ] Finish the vimtutor
+- [ ] Learn about what language would be best to write the code in
+> > *
+
