@@ -83,7 +83,10 @@
 ## 12/20/2023
 ![IMG_1041](https://github.com/DissectCyber/grow/assets/149001389/2cf31964-a8bd-42fb-83c5-0aba0c777fb4)
 ### List of TO-DO's
+- [ ] PRIORITY: work on the pi accessories
 - [ ] Finish the vimtutor
 - [ ] Learn about what language would be best to write the code in
-> > *
-
+> * It only needs to analyze data and present information
+---
+> What code do we need?
+- [ ] Maybe: start to make a website (no idea how)
