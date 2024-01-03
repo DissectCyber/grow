@@ -98,7 +98,7 @@
 #### This mat negates static shock and is safer for the electronics
 ## 1/3/2024
 Add an image of the new sprouts
-### What I did (parts 1 through 10)
+### What I did Today
 ---
 #### Part 0 - the epologue
 - This is gonna be more of a 'talking through my process' entry than the ones I have been doing. I wanted today to be focused on the coding of everything and setting it all up. This entry will also be a tool for Tyler to following along with as I'll write the steps I've taken today and the code that was implemented. Tyler, if you have not finished the Vim tutor please do so as the next steps will be much more difficult without the knowledge you will gain from that.
@@ -107,12 +107,11 @@ Add an image of the new sprouts
 #### Part 1 - Installing resources
 - Today I installed pip, smbus2, and scd4x (in that order) - we will install more as we go along but I just want to get the co2 sensor started today
 - Also make sure that python3 is installed as well as vim obviously - Once again ChatGPT was helpful in this process.
+---
 #### Part 2 - The script
 - This script is for the CO2 sensor but some parts may be used for the other sensors we want to add.
-- Firstly making sure you have the right imports such as scd4x, smbus2, time and others depending on you
-- Here is the code that ChatGPT helped write
----
-- First import these below
+- Firstly making sure you have the right imports such as scd4x, smbus2, time and others depending on you 
+- First import them below
 import smbus2
 import time
 from scd4x import SCD41
@@ -136,3 +135,6 @@ Then place this code in your file (your file must end in .py)
 
         time.sleep(2)
  
+#### Part 3 - Wrap Up
+ - I tried to see if I could get any further with the Raspberry Pi but I couldn't really get anywhere.
+ - I hope that on Friday you are able to give it a try. If any of this is confusing please send me a message on Wikr.
