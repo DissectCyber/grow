@@ -97,7 +97,7 @@
 ![IMG_1044](https://github.com/DissectCyber/grow/assets/149001389/05670624-3514-4777-a71a-25c17aff3293)
 #### This mat negates static shock and is safer for the electronics
 ## 1/3/2024
-Add an image of the new sprouts
+![IMG_1055](https://github.com/DissectCyber/grow/assets/149001389/02b9860c-99fb-4b6a-ba48-6159c3708a8a)
 ### What I did Today
 ---
 #### Part 0 - the epologue
