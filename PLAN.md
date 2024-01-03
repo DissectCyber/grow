@@ -96,3 +96,43 @@
 #### Some of the Pi modules I will try to use
 ![IMG_1044](https://github.com/DissectCyber/grow/assets/149001389/05670624-3514-4777-a71a-25c17aff3293)
 #### This mat negates static shock and is safer for the electronics
+## 1/3/2024
+Add an image of the new sprouts
+### What I did (parts 1 through 10)
+---
+#### Part 0 - the epologue
+- This is gonna be more of a 'talking through my process' entry than the ones I have been doing. I wanted today to be focused on the coding of everything and setting it all up. This entry will also be a tool for Tyler to following along with as I'll write the steps I've taken today and the code that was implemented. Tyler, if you have not finished the Vim tutor please do so as the next steps will be much more difficult without the knowledge you will gain from that.
+- P.S. PLEASE use ChatGPT I would not have been able to do any of this without it. Ask it questions, tell it to rephrase the question if you don't understand it. It really is an mazing tool and is perfect for everything you may have questions for.
+---
+#### Part 1 - Installing resources
+- Today I installed pip, smbus2, and scd4x (in that order) - we will install more as we go along but I just want to get the co2 sensor started today
+- Also make sure that python3 is installed as well as vim obviously - Once again ChatGPT was helpful in this process.
+#### Part 2 - The script
+- This script is for the CO2 sensor but some parts may be used for the other sensors we want to add.
+- Firstly making sure you have the right imports such as scd4x, smbus2, time and others depending on you
+- Here is the code that ChatGPT helped write
+---
+- First import these below
+import smbus2
+import time
+from scd4x import SCD41
+---
+Then place this code in your file (your file must end in .py)
+
+    bus = smbus2.SMBus(1)  -# 1 for Raspberry Pi 3/4, 0 for Raspberry Pi 1/2/Zero
+
+    scd41 = SCD41(bus)
+
+    scd41.start_periodic_measurement()
+
+    while True:
+
+        co2_ppm = scd41.read_measurement()
+    
+        if co2_ppm is not None:
+            print(f"CO2 Concentration: {co2_ppm} ppm")
+        else:
+            print("Failed to read CO2 data")
+
+        time.sleep(2)
+ 
