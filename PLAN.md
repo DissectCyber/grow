@@ -138,3 +138,6 @@ Then place this code in your file (your file must end in .py)
 #### Part 3 - Wrap Up
  - I tried to see if I could get any further with the Raspberry Pi but I couldn't really get anywhere.
  - I hope that on Friday you are able to give it a try. If any of this is confusing please send me a message on Wikr.
+
+## 2/2/2024
+![Screenshot 2024-02-02 12 56 24 PM](https://github.com/DissectCyber/grow/assets/149178495/2adfc3d9-e11e-40ba-92ac-140fc030e3d9)
