@@ -141,3 +141,8 @@ Then place this code in your file (your file must end in .py)
 
 ## 2/2/2024
 ![Screenshot 2024-02-02 12 56 24 PM](https://github.com/DissectCyber/grow/assets/149178495/2adfc3d9-e11e-40ba-92ac-140fc030e3d9)
+
+### Starting on the Website
+- I started by trouble shooting and downloading everything that needed to be downloaded to get React and Vim working together. I downloaded a lot of stuff if you also want to work on the website just ask ChatGPT on how to set everything up
+- I made a chart with fake temperature data each point is showing one day and when you hover over the point with your cursor it says Plant Temperatur (C): and then the temperature so once we starting getting data I can put it into the website and we can start getting information down on the plant
+- 
