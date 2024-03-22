@@ -145,4 +145,9 @@ Then place this code in your file (your file must end in .py)
 ### Starting on the Website
 - I started by trouble shooting and downloading everything that needed to be downloaded to get React and Vim working together. I downloaded a lot of stuff if you also want to work on the website just ask ChatGPT on how to set everything up
 - I made a chart with fake temperature data each point is showing one day and when you hover over the point with your cursor it says Plant Temperatur (C): and then the temperature so once we starting getting data I can put it into the website and we can start getting information down on the plant
-- 
+
+## 3/22/2024
+### Working on the Website 
+- I've started by taking the chart with the fake temperature and removing from the website for now because I was thinking it would be better to make different tabs for different data like one tab could show the temp of the plant and another could show how much light it is getting etc
+- I put my essential question into the web page and also the overview of what I am going to be putting on the website
+- I also spent some time fixing things in my overview to make it sound better and more understandable
