@@ -151,3 +151,9 @@ Then place this code in your file (your file must end in .py)
 - I've started by taking the chart with the fake temperature and removing from the website for now because I was thinking it would be better to make different tabs for different data like one tab could show the temp of the plant and another could show how much light it is getting etc
 - I put my essential question into the web page and also the overview of what I am going to be putting on the website
 - I also spent some time fixing things in my overview to make it sound better and more understandable
+
+## 3/29/2024
+![Screenshot 2024-03-29 12 52 03 PM](https://github.com/DissectCyber/grow/assets/149178495/e37ab9a9-664e-4f3d-94f5-7845b3a89e5d)
+### Even More Web Development 
+- With my time here today I was able to make a website that has 2 seperate pages (There will be more than 2 page). One of the pages shows my essential question for my project and my project overview. The second page shows the chart that I removed from the website last week but now they are both on the same website and you can go into either of them from the same page.
+- Next time I work on the website I want to add more info about my project and also add more pages to website to show more info about the plant.
