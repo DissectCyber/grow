@@ -157,3 +157,12 @@ Then place this code in your file (your file must end in .py)
 ### Even More Web Development 
 - With my time here today I was able to make a website that has 2 seperate pages (There will be more than 2 page). One of the pages shows my essential question for my project and my project overview. The second page shows the chart that I removed from the website last week but now they are both on the same website and you can go into either of them from the same page.
 - Next time I work on the website I want to add more info about my project and also add more pages to website to show more info about the plant.
+
+## 4/5/2024
+### Brainstorming ideas for website
+- Add more pages that will show more information
+  -like 
+- Style it to look more visually apealing using css
+- Add more information on why I am growing my plant and make the home page more understandable
+- Ask around for feedback on the site to see if there anything else I could add
+- 
