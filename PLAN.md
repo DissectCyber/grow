@@ -161,8 +161,17 @@ Then place this code in your file (your file must end in .py)
 ## 4/5/2024
 ### Brainstorming ideas for website
 - Add more pages that will show more information
-  - like
+  - Different page describing my project so the homepage can be an overview
 - Style it to look more visually apealing using css
 - Add more information on why I am growing my plant and make the home page more understandable
 - Ask around for feedback on the site to see if there anything else I could add
-- 
+- Offer educational content about the plant species, optimal care practices, and the significance of each type of data being monitored
+- Implement security measures to protect the website and your data
+- automated watering system that can be triggered manually from the website or trigger automatically when soil moisture levels drop too low.
+
+### How to integrate these ideas into my website
+- I need a handfull of empty pages so that I can start adding things onto them which should be the easy part
+- Styling the pages should also be easy there might need to be few changes though
+- Use information from my bibliography to offer educational content about the plant I will be growing
+- I don't know much on to implement security measures to protect my site I will have to more research on how to that so my site is safe
+- An automated watering system would be cool but I feel it owuld be something I would do towards the end so it is not a main focus right now
