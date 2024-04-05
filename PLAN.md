@@ -161,7 +161,7 @@ Then place this code in your file (your file must end in .py)
 ## 4/5/2024
 ### Brainstorming ideas for website
 - Add more pages that will show more information
-  -like 
+    *like
 - Style it to look more visually apealing using css
 - Add more information on why I am growing my plant and make the home page more understandable
 - Ask around for feedback on the site to see if there anything else I could add
